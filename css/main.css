@@ -9,3 +9,8 @@ h1 {
     clear: left;
 }
 
+p:nth-of-type(3) { 
+    clear:both; 
+}
+
+
