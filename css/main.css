@@ -1,8 +1,11 @@
 img {
     width: 400px;
-    float:left;
+    float: left;
+    clear: left;
 }
 
 h1 {
     float: right;
+    clear: left;
 }
+
