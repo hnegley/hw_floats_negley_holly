@@ -19,22 +19,29 @@
     min-height: 500px;
     float: right;
     width: 175px;
+    overflow: hidden;
+    clear: both;
 }
 
 .page-heading {
     background: rgba(255, 0, 0, 0.79);
+    width: 125px;
+    clear: both;
 }
 
 .post-date {
-
+    float: right;
+    clear: both;
 }
 
 .image {
     background: gray;
     height: 200px;
     width: 300px;
+    float: right;
+    clear: both;
 }
 
 article {
-
+    clear: both;
 }
